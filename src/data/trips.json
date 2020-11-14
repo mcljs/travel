@@ -1,0 +1,26 @@
+[
+  {
+    "img":"../assets/images/hotel-1.jpg",
+    "alt": "Spam",
+    "name": "Take a relax with the best view",
+    "button": "View Site"
+  },
+ {
+    "img":"../assets/images/hotel-2.jpg",
+    "alt": "Piscinas",
+    "name": "Enjoy our best sites",
+    "button": "View Site"
+  },
+ {
+    "img":"../assets/images/hotel-3.jpg",
+    "alt": "rooms",
+    "name": "Beautiful Rooms",
+    "button": "View Site"
+  },
+ {
+    "img":"../assets/images/hotel-4.jpg",
+    "alt": "disponibilidad",
+    "name": "We have availability all year",
+    "button": "View Site"
+  }
+]
